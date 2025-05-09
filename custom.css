@@ -1,0 +1,45 @@
+
+
+body {
+    background: #121212;
+}
+
+.navbar{
+    background: #1A1A1A;
+}
+
+
+
+.overlay {
+    position: absolute;
+    bottom: 10px; /* atau 0 jika ingin menempel di bawah gambar */
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+  }
+  
+
+.komentar{
+    background: #1A1A1A;
+}
+
+.footer{
+    background: #1A1A1A;
+}
+
+.gamsi{
+    float: inline-end;
+}
+
+.custom-video {
+    height: 500px;
+    object-fit: cover; /* Menjaga proporsi dan crop jika perlu */
+}
+
+.video2{
+    background: #1A1A1A;
+}
+
+.spasi{
+    padding: 0%;
+}
